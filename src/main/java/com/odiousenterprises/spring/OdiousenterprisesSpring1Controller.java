@@ -8,7 +8,6 @@ import static org.springframework.web.bind.annotation.RequestMethod.GET;
 
 @RestController
 class OdiousenterprisesSpring1Controller {
-
     @RequestMapping(method = GET, path = "hello/{name}")
     public String person(@PathVariable String name) {
         return "Hello " + name + "!";
