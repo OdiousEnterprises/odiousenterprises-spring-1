@@ -13,4 +13,9 @@ class OdiousenterprisesSpring1Controller {
         return "Hello " + name + "!";
     }
 
+	@RequestMapping(method = GET, path = "")
+	public String base() {
+		return "Hello";
+	}
+
 }
