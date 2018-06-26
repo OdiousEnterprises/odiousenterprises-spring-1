@@ -1,5 +1,6 @@
 # spring-rest-seed
 BOOM BAM BOOT
+WHADDYA TALKING
 [![Build Status](https://travis-ci.org/atomist-seeds/spring-rest-seed.svg?branch=master)](https://travis-ci.org/atomist-seeds/spring-rest-seed)
 
 [boot]: https://projects.spring.io/spring-boot/
