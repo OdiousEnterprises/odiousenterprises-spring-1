@@ -3,6 +3,7 @@ BOOM BAM BOOT
 WHADDYA TALKING
 SPOOOOOOGE
 BLAMMO
+WHUBBA
 [![Build Status](https://travis-ci.org/atomist-seeds/spring-rest-seed.svg?branch=master)](https://travis-ci.org/atomist-seeds/spring-rest-seed)
 
 [boot]: https://projects.spring.io/spring-boot/
